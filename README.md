@@ -1,8 +1,3 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">I'm Sanya, curious and learning about web development 👨‍💻 working remotely since 2021 🚀</div>  
   
 
