@@ -1,4 +1,6 @@
-### <div align="center">I'm Sanya, curious and learning about web development 👨‍💻 working remotely since 2021 🚀</div><br/>  
+<br/>
+
+### <div align="center">Hi! I'm Sanya, curious and learning about web development 👨‍💻 working remotely since 2021 🚀</div><br/>  
   
 
 - 🔭 I’m currently working on my research paper related to nature-inspired algorithms.  
@@ -82,9 +84,7 @@
 <a href="https://www.behance.net/sanyiahpiang" target="_blank">
 <img src=https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white alt=behance style="margin-bottom: 5px;" />
 </a>  
-  
-
-<br/>  
+<br/><br/><br/>
 
 
 ## 📊 Github Stats  
