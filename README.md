@@ -1,4 +1,4 @@
-### <div align="center">I'm Sanya, curious and learning about web development 👨‍💻 working remotely since 2021 🚀</div>  
+### <div align="center">I'm Sanya, curious and learning about web development 👨‍💻 working remotely since 2021 🚀</div><br/>  
   
 
 - 🔭 I’m currently working on my research paper related to nature-inspired algorithms.  
