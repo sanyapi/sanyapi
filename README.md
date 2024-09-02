@@ -4,15 +4,12 @@
   
 
 - 🔭 I’m currently working on my research paper related to nature-inspired algorithms.  
+
+  
+- 🌱 I’m currently learning Python.
   
 
-- 👯 I’m looking to collaborate on cool web development projects.  
-  
-
-- 🌱 I’m currently learning C++ and React.  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ Fun fact: I played Belle in a Beauty and the Beast school musical.
   
 
 <br/>  
