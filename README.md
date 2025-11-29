@@ -1,15 +1,15 @@
 <br/>
 
-### <div align="center">Hi! I'm Sanya, curious and learning about AI and software development 👨‍💻 working remotely since 2021 🚀</div><br/>  
+### <div align="center">Hi! I'm Sanya 👋 Welcome to my github page! /div><br/>  
   
 
-- 🔭 I’m currently working on my research paper related to nature-inspired algorithms.  
+- 🌱 I’m interested in AI and software engineering. 
 
   
-- 🌱 I’m currently learning Python.
+- 💪 I’m learning and working on Python for automation.
   
 
-- ⚡ Fun fact: I played as Belle in a Beauty and the Beast school musical.
+- 🎤 Fun fact: I love performing on stage. I have joined multiple band competitions and played as Belle in a Beauty and the Beast school musical play.
   
 
 <br/>  
