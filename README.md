@@ -1,6 +1,6 @@
 <br/>
 
-### <div align="center">Hi! I'm Sanya 👋 Welcome to my github page! /div><br/>  
+### <div align="center">Hi! I'm Sanya 👋 Welcome to my github page! </div><br/>  
   
 
 - 🌱 I’m interested in AI and software engineering. 
