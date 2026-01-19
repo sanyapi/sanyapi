@@ -6,7 +6,7 @@
 - 🌱 I’m interested in AI and software engineering. 
 
   
-- 💪 I’m learning and working on Python for automation.
+- 💪 I’m learning and using Python for automation.
   
 
 - 🎤 Fun fact: I love performing on stage. I have joined multiple band competitions and played as Belle in a Beauty and the Beast school musical play.
